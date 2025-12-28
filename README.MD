@@ -35,5 +35,5 @@ ________________________________________
 •	Cloud-based deployment ☁️
 ________________________________________
 👨‍💻 Author
-Developed by Vinuu1
-🌐 GitHub: [Vinuu1](https://github.com/Vinuu1/)
+Developed by Vinuu,sauravpatankar167281-bit
+🌐 GitHub: [Vinuu1](https://github.com/Vinuu1/) [sauravpatankar167281-bit](https://github.com/sauravpatankar167281-bit/)
