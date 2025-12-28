@@ -7,11 +7,10 @@ With secure data handling, role-based access, and real-time reporting, HMS ensur
   ✨ Features
 - 👨‍🎓 Student Management – Registration, room allocation, attendance, and records  
 - 🛏️ Room Management – Track availability, assign rooms, and manage transfers  
-- 💳 Fee Management – Automated fee collection, receipts, and payment history  
-- 👩‍💼 Staff Management – Maintain staff details, duty schedules, and payroll  
+- 💳 Fee Management – Automated fee collection, receipts, and payment history   
 - 📝 Visitor Logs – Record visitor details for security and monitoring  
 - 📊 Reports & Analytics – Generate occupancy, financial, and performance reports  
-- 🔐 Role-Based Access – Admin, warden, and student portals with secure login  
+- 🔐 Role-Based Access – Admin, and student portals with secure login  
 
   🚀 Tech Stack
 -  Frontend:  HTML, CSS, JavaScript  
@@ -33,8 +32,6 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ________________________________________
 💡 Future Enhancements
 •	Online fee payment integration 💳
-•	Mobile app for students 📱
-•	Biometric attendance system 🔐
 •	Cloud-based deployment ☁️
 ________________________________________
 👨‍💻 Author
