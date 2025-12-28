@@ -1,6 +1,8 @@
   🏠 Hostel Management System
 
-A  smart and efficient Hostel Management System (HMS)  designed to simplify hostel operations. This project manages student registrations, room allocations, fee payments, staff records, and visitor logs in one centralized platform. With secure data handling, role-based access, and real-time reporting, HMS ensures smooth hostel administration and enhances student experience.
+A  smart and efficient Hostel Management System (HMS)  designed to simplify hostel operations.
+This project manages student registrations, room allocations, fee payments, staff records, and visitor logs in one centralized platform.
+With secure data handling, role-based access, and real-time reporting, HMS ensures smooth hostel administration and enhances student experience.
 
   ✨ Features
 - 👨‍🎓 Student Management – Registration, room allocation, attendance, and records  
@@ -37,5 +39,4 @@ ________________________________________
 ________________________________________
 👨‍💻 Author
 Developed by Vinuu1
-🌐 GitHub: Vinuu1
-
+🌐 GitHub: [Vinuu1](https://github.com/Vinuu1/)
