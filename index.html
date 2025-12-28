@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hostel Management System</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Basic styling if style.css not loaded */
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #6a11cb, #2575fc);
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: rgba(0, 0, 0, 0.4);
+            text-align: center;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2rem;
+        }
+        .container {
+            text-align: center;
+            margin-top: 100px;
+        }
+        .container h2 {
+            margin-bottom: 40px;
+        }
+        .btn {
+            display: inline-block;
+            background: #fff;
+            color: #2575fc;
+            padding: 12px 25px;
+            text-decoration: none;
+            border-radius: 6px;
+            margin: 10px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .btn:hover {
+            background: #2575fc;
+            color: #fff;
+            transform: scale(1.05);
+        }
+        footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background: rgba(0, 0, 0, 0.4);
+            text-align: center;
+            padding: 10px 0;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>🏢 Hostel Management System</h1>
+    </header>
+
+    <div class="container">
+        <h2>Welcome to the Hostel Management System</h2>
+        <p>Please choose your login type:</p>
+        <a href="adminLogin.jsp" class="btn">Admin Login</a>
+        <a href="userLogin.jsp" class="btn">Student Login</a>
+        <br><br>
+        <p>New user? <a href="userRegister.html" style="color: #fff; text-decoration: underline;">Register here</a></p>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Hostel Management System | Developed using JSP + JDBC + MySQL</p>
+    </footer>
+
+</body>
+</html>
