@@ -28,7 +28,7 @@ With secure data handling, role-based access, and real-time reporting, HMS ensur
 5.	Access via http://localhost:8080/Hostel-management-system.
 ________________________________________
 📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/Vinuu1/Hostal-management-system/blob/main/LICENSE) file for details.
 ________________________________________
 💡 Future Enhancements
 •	Online fee payment integration 💳
